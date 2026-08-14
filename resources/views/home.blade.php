@@ -7,5 +7,5 @@
     @include('components.landing.chambres')
     @include('components.landing.gallery')
     @include('components.landing.map')
-    @include('components.temoignages')
+    @include('components.landing.temoignages')
 @endsection
