@@ -7,7 +7,7 @@
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center mb-24">
 
             <!-- Colonne Gauche : Texte de présentation -->
-            <div class="text-left">
+            <div class="text-left" data-aos="fade-right" data-aos-duration="1000">
                 <span class="inline-block text-amber-600 text-xs font-bold uppercase tracking-widest mb-3">
                     À Propos de l'Hôtel IZE
                 </span>
@@ -38,7 +38,7 @@
             </div>
 
             <!-- Colonne Droite : Composition d'images -->
-            <div class="relative">
+            <div class="relative" data-aos="fade-left" data-aos-duration="1000">
                 <div class="aspect-[4/3] w-full overflow-hidden shadow-2xl">
                     <img
                         src="{{ asset('images/piscine.png') }}"
@@ -56,7 +56,7 @@
         <!-- Bloc 2 : Pourquoi Choisir IZE ? (Grille de cartes) -->
         <div class="pt-12 border-t border-gray-100">
 
-            <div class="text-center max-w-2xl mx-auto mb-16">
+            <div class="text-center max-w-2xl mx-auto mb-16" data-aos="fade-up" data-aos-duration="800">
                 <span class="text-amber-600 text-xs font-bold uppercase tracking-widest block mb-2">
                     L'Expérience IZE
                 </span>
@@ -68,7 +68,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
 
                 <!-- Raison 1 -->
-                <div class="p-8 bg-gray-50 border border-gray-100 hover:border-amber-200 transition duration-300">
+                <div class="p-8 bg-gray-50 border border-gray-100 hover:border-amber-200 transition duration-300" data-aos="zoom-in" data-aos-duration="800" data-aos-delay="0">
                     <div class="w-12 h-12 bg-amber-100 text-amber-600 flex items-center justify-center text-xl mb-6">
                         <i class="fa-solid fa-mountain-sun"></i>
                     </div>
@@ -79,7 +79,7 @@
                 </div>
 
                 <!-- Raison 2 -->
-                <div class="p-8 bg-gray-50 border border-gray-100 hover:border-amber-200 transition duration-300">
+                <div class="p-8 bg-gray-50 border border-gray-100 hover:border-amber-200 transition duration-300" data-aos="zoom-in" data-aos-duration="800" data-aos-delay="100">
                     <div class="w-12 h-12 bg-amber-100 text-amber-600 flex items-center justify-center text-xl mb-6">
                         <i class="fa-solid fa-bed"></i>
                     </div>
@@ -90,7 +90,7 @@
                 </div>
 
                 <!-- Raison 3 -->
-                <div class="p-8 bg-gray-50 border border-gray-100 hover:border-amber-200 transition duration-300">
+                <div class="p-8 bg-gray-50 border border-gray-100 hover:border-amber-200 transition duration-300" data-aos="zoom-in" data-aos-duration="800" data-aos-delay="200">
                     <div class="w-12 h-12 bg-amber-100 text-amber-600 flex items-center justify-center text-xl mb-6">
                         <i class="fa-solid fa-utensils"></i>
                     </div>

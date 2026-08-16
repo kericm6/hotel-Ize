@@ -14,13 +14,13 @@
     <div class="absolute inset-0 bg-gradient-to-t from-gray-900 via-gray-900/60 to-transparent z-10"></div>
 
     <div class="relative z-20 max-w-7xl mx-auto px-6 lg:px-8 text-left">
-        <span class="text-amber-400 text-xs font-bold uppercase tracking-widest block mb-3">
+        <span class="text-amber-400 text-xs font-bold uppercase tracking-widest block mb-3" data-aos="fade-up" data-aos-duration="800">
             À Votre Écoute
         </span>
-        <h1 class="text-4xl sm:text-5xl md:text-6xl  font-bold tracking-tight mb-4">
+        <h1 class="text-4xl sm:text-5xl md:text-6xl  font-bold tracking-tight mb-4" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
             Contactez-nous
         </h1>
-        <p class="text-gray-300 text-base sm:text-lg max-w-2xl font-light leading-relaxed">
+        <p class="text-gray-300 text-base sm:text-lg max-w-2xl font-light leading-relaxed" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
             Une question sur nos hébergements, une réservation de table ou un besoin spécifique ? Notre équipe est à votre entière disposition.
         </p>
     </div>
@@ -33,7 +33,7 @@
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
 
             <!-- Colonne de Gauche : Accès Direct & Coordonnées -->
-            <div class="lg:col-span-5 space-y-6">
+            <div class="lg:col-span-5 space-y-6" data-aos="fade-right" data-aos-duration="800">
 
                 <div class="text-left mb-6">
                     <span class="text-amber-600 text-xs font-bold uppercase tracking-widest block mb-1">
@@ -131,7 +131,7 @@
             </div>
 
             <!-- Colonne de Droite : Formulaire Moderne -->
-            <div class="lg:col-span-7 bg-white p-8 sm:p-10 rounded-2xl border border-stone-200/80 shadow-sm text-left">
+            <div class="lg:col-span-7 bg-white p-8 sm:p-10 rounded-2xl border border-stone-200/80 shadow-sm text-left" data-aos="fade-left" data-aos-duration="800">
                 <h3 class="text-2xl  font-bold text-gray-900 mb-2">
                     Envoyez-nous un message
                 </h3>

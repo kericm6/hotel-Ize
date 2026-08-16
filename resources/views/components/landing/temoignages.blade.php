@@ -4,7 +4,7 @@
     <div class="max-w-7xl mx-auto px-6 lg:px-8">
 
         <!-- En-tête -->
-        <div class="text-center max-w-3xl mx-auto mb-16">
+        <div class="text-center max-w-3xl mx-auto mb-16" data-aos="fade-up" data-aos-duration="800">
             <span class="text-amber-600 text-xs font-bold uppercase tracking-widest block mb-2">
                 Avis & Retours
             </span>
@@ -20,7 +20,7 @@
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
 
             <!-- Témoignage 1 -->
-            <div class="bg-white p-8 border border-gray-100 shadow-sm flex flex-col justify-between">
+            <div class="bg-white p-8 border border-gray-100 shadow-sm flex flex-col justify-between" data-aos="fade-up" data-aos-duration="800" data-aos-delay="0">
                 <div>
                     <!-- Étoiles -->
                     <div class="text-amber-500 text-xs mb-4 flex gap-1">
@@ -46,7 +46,7 @@
             </div>
 
             <!-- Témoignage 2 -->
-            <div class="bg-white p-8 border border-gray-100 shadow-sm flex flex-col justify-between">
+            <div class="bg-white p-8 border border-gray-100 shadow-sm flex flex-col justify-between" data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
                 <div>
                     <!-- Étoiles -->
                     <div class="text-amber-500 text-xs mb-4 flex gap-1">
@@ -72,7 +72,7 @@
             </div>
 
             <!-- Témoignage 3 -->
-            <div class="bg-white p-8 border border-gray-100 shadow-sm flex flex-col justify-between">
+            <div class="bg-white p-8 border border-gray-100 shadow-sm flex flex-col justify-between" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
                 <div>
                     <!-- Étoiles -->
                     <div class="text-amber-500 text-xs mb-4 flex gap-1">

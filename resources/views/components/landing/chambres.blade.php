@@ -4,7 +4,7 @@
     <div class="max-w-7xl mx-auto px-6 lg:px-8">
 
         <!-- En-tête de section -->
-        <div class="flex flex-col md:flex-row md:items-end justify-between mb-16 gap-6">
+        <div class="flex flex-col md:flex-row md:items-end justify-between mb-16 gap-6" data-aos="fade-up" data-aos-duration="800">
             <div class="max-w-2xl text-left">
                 <span class="text-amber-600 text-xs font-bold uppercase tracking-widest block mb-2">
                     Hébergements d'Exception
@@ -30,7 +30,7 @@
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 
             <!-- Chambre 1 : Suite Exécutive -->
-            <div class="bg-white border border-gray-100 shadow-sm hover:shadow-xl transition duration-300 group flex flex-col justify-between">
+            <div class="bg-white border border-gray-100 shadow-sm hover:shadow-xl transition duration-300 group flex flex-col justify-between" data-aos="zoom-in" data-aos-duration="800" data-aos-delay="0">
                 <div>
                     <!-- Visuel avec prix en overlay -->
                     <div class="relative aspect-4/3 overflow-hidden">
@@ -79,7 +79,7 @@
             </div>
 
             <!-- Chambre 2 : Suite Junior Prestige -->
-            <div class="bg-white border border-gray-100 shadow-sm hover:shadow-xl transition duration-300 group flex flex-col justify-between">
+            <div class="bg-white border border-gray-100 shadow-sm hover:shadow-xl transition duration-300 group flex flex-col justify-between" data-aos="zoom-in" data-aos-duration="800" data-aos-delay="100">
                 <div>
                     <!-- Visuel -->
                     <div class="relative aspect-4/3 overflow-hidden">
@@ -128,7 +128,7 @@
             </div>
 
             <!-- Chambre 3 : Villa Présidentielle IZE -->
-            <div class="bg-white border border-gray-100 shadow-sm hover:shadow-xl transition duration-300 group flex flex-col justify-between">
+            <div class="bg-white border border-gray-100 shadow-sm hover:shadow-xl transition duration-300 group flex flex-col justify-between" data-aos="zoom-in" data-aos-duration="800" data-aos-delay="200">
                 <div>
                     <!-- Visuel -->
                     <div class="relative aspect-4/3 overflow-hidden">

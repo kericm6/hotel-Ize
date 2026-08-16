@@ -28,5 +28,10 @@ class AppServiceProvider extends ServiceProvider
         }
 
         //
+
+        // Force les URLs en HTTPS sur l'environnement de production / Vercel
+        if (config('app.env') === 'production' || isset($_SERVER['HTTP_X_FORWARDED_PROTO'])) {
+            URL::forceScheme('https');
+        }
     }
 }

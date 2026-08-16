@@ -14,13 +14,13 @@
     <div class="absolute inset-0 bg-gradient-to-t from-gray-900 via-gray-900/60 to-transparent z-10"></div>
 
     <div class="relative z-20 max-w-7xl mx-auto px-6 lg:px-8 text-left">
-        <span class="text-amber-400 text-xs font-bold uppercase tracking-widest block mb-3">
+        <span class="text-amber-400 text-xs font-bold uppercase tracking-widest block mb-3" data-aos="fade-up" data-aos-duration="800">
             Saveurs & Authenticité
         </span>
-        <h1 class="text-4xl sm:text-5xl md:text-6xl  font-bold tracking-tight mb-4">
+        <h1 class="text-4xl sm:text-5xl md:text-6xl  font-bold tracking-tight mb-4" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
             Gastronomie & Bar Lounge
         </h1>
-        <p class="text-gray-300 text-base sm:text-lg max-w-2xl font-light leading-relaxed">
+        <p class="text-gray-300 text-base sm:text-lg max-w-2xl font-light leading-relaxed" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
             Une carte d'exception mariant les produits du terroir de Kpalimé aux finesses de la cuisine internationale.
         </p>
     </div>
@@ -32,7 +32,7 @@
     <div class="max-w-4xl mx-auto px-6 lg:px-8">
 
         <!-- En-tête de section -->
-        <div class="text-center max-w-xl mx-auto mb-10">
+        <div class="text-center max-w-xl mx-auto mb-10" data-aos="fade-up" data-aos-duration="800">
             <span class="text-amber-600 text-xs font-bold uppercase tracking-widest block mb-2">
                 Gastronomie & Formules
             </span>
@@ -43,7 +43,7 @@
         </div>
 
         <!-- Carte Conteneur / Tableau Stylé -->
-        <div class="bg-white rounded-xl border border-stone-200/80 shadow-sm overflow-hidden mb-8">
+        <div class="bg-white rounded-xl border border-stone-200/80 shadow-sm overflow-hidden mb-8" data-aos="zoom-in" data-aos-duration="800" data-aos-delay="100">
             <div class="overflow-x-auto">
                 <table class="w-full text-left text-sm text-gray-600">
                     <thead class="bg-stone-100 text-xs uppercase tracking-wider text-gray-700 border-b border-stone-200">

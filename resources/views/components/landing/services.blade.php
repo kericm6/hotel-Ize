@@ -4,7 +4,7 @@
     <div class="max-w-7xl mx-auto px-6 lg:px-8">
 
         <!-- En-tête de section -->
-        <div class="text-center max-w-3xl mx-auto mb-16">
+        <div class="text-center max-w-3xl mx-auto mb-16" data-aos="fade-up" data-aos-duration="800">
             <span class="text-amber-600 text-xs font-bold uppercase tracking-widest block mb-2">
                 Équipements & Prestations
             </span>
@@ -20,7 +20,7 @@
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
 
             <!-- Service 1 : Restauration -->
-            <div class="bg-gray-50 border border-gray-100 shadow-sm hover:shadow-xl transition duration-300 group flex flex-col">
+            <div class="bg-gray-50 border border-gray-100 shadow-sm hover:shadow-xl transition duration-300 group flex flex-col" data-aos="zoom-in" data-aos-duration="800" data-aos-delay="0">
                 <!-- Image en haut -->
                 <div class="relative aspect-[4/3] overflow-hidden">
                     <img
@@ -45,7 +45,7 @@
             </div>
 
             <!-- Service 2 : Piscine -->
-            <div class="bg-gray-50 border border-gray-100 shadow-sm hover:shadow-xl transition duration-300 group flex flex-col">
+            <div class="bg-gray-50 border border-gray-100 shadow-sm hover:shadow-xl transition duration-300 group flex flex-col" data-aos="zoom-in" data-aos-duration="800" data-aos-delay="100">
                 <!-- Image en haut -->
                 <div class="relative aspect-4/3 overflow-hidden">
                     <img
@@ -70,7 +70,7 @@
             </div>
 
             <!-- Service 3 : Terrain de Football Synthétique -->
-            <div class="bg-gray-50 border border-gray-100 shadow-sm hover:shadow-xl transition duration-300 group flex flex-col">
+            <div class="bg-gray-50 border border-gray-100 shadow-sm hover:shadow-xl transition duration-300 group flex flex-col" data-aos="zoom-in" data-aos-duration="800" data-aos-delay="200">
                 <!-- Image en haut -->
                 <div class="relative aspect-4/3 overflow-hidden">
                     <img
@@ -95,7 +95,7 @@
             </div>
 
             <!-- Service 4 : Salle de Réunion -->
-            <div class="bg-gray-50 border border-gray-100 shadow-sm hover:shadow-xl transition duration-300 group flex flex-col">
+            <div class="bg-gray-50 border border-gray-100 shadow-sm hover:shadow-xl transition duration-300 group flex flex-col" data-aos="zoom-in" data-aos-duration="800" data-aos-delay="300">
                 <!-- Image en haut -->
                 <div class="relative aspect-4/3 overflow-hidden">
                     <img

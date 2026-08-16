@@ -7,7 +7,7 @@
         <div class="max-w-7xl mx-auto px-6 lg:px-8">
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8 items-center text-left">
 
-                <div class="flex items-start gap-4">
+                <div class="flex items-start gap-4" data-aos="fade-up" data-aos-duration="800" data-aos-delay="0">
                     <div class="w-10 h-10 bg-amber-600/20 text-amber-500 flex items-center justify-center shrink-0">
                         <i class="fa-solid fa-location-dot"></i>
                     </div>
@@ -17,7 +17,7 @@
                     </div>
                 </div>
 
-                <div class="flex items-start gap-4">
+                <div class="flex items-start gap-4" data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
                     <div class="w-10 h-10 bg-amber-600/20 text-amber-500 flex items-center justify-center shrink-0">
                         <i class="fa-solid fa-plane-arrival"></i>
                     </div>
@@ -27,7 +27,7 @@
                     </div>
                 </div>
 
-                <div class="flex items-start gap-4">
+                <div class="flex items-start gap-4" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
                     <div class="w-10 h-10 bg-amber-600/20 text-amber-500 flex items-center justify-center shrink-0">
                         <i class="fa-solid fa-car"></i>
                     </div>
@@ -42,7 +42,7 @@
     </div>
 
     <!-- Carte Google Maps Intégrée -->
-    <div class="w-full h-[400px] lg:h-[480px] relative filter grayscale contrast-125 opacity-90 hover:grayscale-0 hover:opacity-100 transition duration-500">
+    <div class="w-full h-[400px] lg:h-[480px] relative filter grayscale contrast-125 opacity-90 hover:grayscale-0 hover:opacity-100 transition duration-500" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="100">
         <iframe
             class="w-full h-full border-0"
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31674.88741355172!2d0.6121945!3d6.9039655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1021430932bb19a3%3A0x6b53942008ef2825!2sKpalim%C3%A9!5e0!3m2!1sfr!2stg!4v1700000000000!5m2!1sfr!2stg"

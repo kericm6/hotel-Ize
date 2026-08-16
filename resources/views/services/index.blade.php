@@ -16,16 +16,16 @@
     <div class="absolute inset-0 bg-gradient-to-t from-gray-900 via-gray-900/60 to-transparent z-10"></div>
 
     <div class="relative z-20 max-w-7xl mx-auto px-6 lg:px-8 text-left">
-        <span class="text-amber-400 text-xs font-bold uppercase tracking-widest block mb-3">
+        <span class="text-amber-400 text-xs font-bold uppercase tracking-widest block mb-3" data-aos="fade-up" data-aos-duration="800">
             Loisirs, Détente & Business
         </span>
-        <h1 class="text-4xl sm:text-5xl md:text-6xl  font-bold tracking-tight mb-4">
+        <h1 class="text-4xl sm:text-5xl md:text-6xl  font-bold tracking-tight mb-4" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
             Nos Services & Installations
         </h1>
-        <p class="text-gray-300 text-base sm:text-lg max-w-2xl font-light leading-relaxed mb-8">
+        <p class="text-gray-300 text-base sm:text-lg max-w-2xl font-light leading-relaxed mb-8" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
             Des prestations de premier choix conçues pour rendre votre séjour à Kpalimé aussi relaxant que stimulant.
         </p>
-        <a href="" class="inline-flex items-center gap-3 px-6 py-3 text-xs font-semibold uppercase tracking-wider text-white bg-amber-600 hover:bg-amber-700 rounded-none shadow-sm transition">
+        <a href="" class="inline-flex items-center gap-3 px-6 py-3 text-xs font-semibold uppercase tracking-wider text-white bg-amber-600 hover:bg-amber-700 rounded-none shadow-sm transition" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
             <i class="fas fa-phone"></i>
             Nous Contacter
         </a>
@@ -38,7 +38,7 @@
     <div class="max-w-7xl mx-auto px-6 lg:px-8 space-y-24">
 
         <!-- SERVICE 1 : Restauration & Bar -->
-        <div id="restauration" class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+        <div id="restauration" class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center" data-aos="fade-up" data-aos-duration="800" data-aos-delay="0">
             <div class="lg:col-span-6 relative aspect-[4/3] overflow-hidden shadow-xl">
                 <img
                     src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1000&auto=format&fit=crop"
@@ -70,7 +70,7 @@
         <hr class="border-gray-200">
 
         <!-- SERVICE 2 : Piscine à débordement -->
-        <div id="piscine" class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+        <div id="piscine" class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center" data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
             <div class="lg:col-span-6 lg:order-2 relative aspect-[4/3] overflow-hidden shadow-xl">
                 <img
                     src="{{ asset('images/piscine.png') }}"
@@ -102,7 +102,7 @@
         <hr class="border-gray-200">
 
         <!-- SERVICE 3 : Terrain Synthétique -->
-        <div id="terrain" class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+        <div id="terrain" class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
             <div class="lg:col-span-6 relative aspect-[4/3] overflow-hidden shadow-xl">
                 <img
                     src="{{ asset('images/terrain.png') }}"
@@ -134,7 +134,7 @@
         <hr class="border-gray-200">
 
         <!-- SERVICE 4 : Salle de Réunion -->
-        <div id="reunion" class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+        <div id="reunion" class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center" data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">
             <div class="lg:col-span-6 lg:order-2 relative aspect-[4/3] overflow-hidden shadow-xl">
                 <img
                     src="{{ asset('images/salle_de_reunion.png') }}"

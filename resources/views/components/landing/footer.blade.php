@@ -31,7 +31,7 @@
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
 
             <!-- Colonne 1 : À propos & Marque -->
-            <div class="space-y-4">
+            <div class="space-y-4" data-aos="fade-up" data-aos-duration="800" data-aos-delay="0">
                 <a href="#" class="text-2xl  font-bold tracking-wider text-white">
                     HÔTEL <span class="text-amber-500">IZE</span>
                 </a>
@@ -53,7 +53,7 @@
             </div>
 
             <!-- Colonne 2 : Liens Rapides -->
-            <div>
+            <div data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
                 <h4 class="text-sm font-bold uppercase tracking-widest text-amber-500 mb-6">Navigation</h4>
                 <ul class="space-y-3 text-sm text-gray-400 font-light">
                     <li><a href="#propos" class="hover:text-amber-400 transition">À Propos</a></li>
@@ -65,7 +65,7 @@
             </div>
 
             <!-- Colonne 3 : Contacts & Horaires -->
-            <div>
+            <div data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
                 <h4 class="text-sm font-bold uppercase tracking-widest text-amber-500 mb-6">Coordonnées</h4>
                 <ul class="space-y-4 text-sm text-gray-400 font-light">
                     <li class="flex items-start gap-3">
@@ -88,7 +88,7 @@
             </div>
 
             <!-- Colonne 4 : Newsletter / Newsletter Form -->
-            <div>
+            <div data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">
                 <h4 class="text-sm font-bold uppercase tracking-widest text-amber-500 mb-6">Newsletter</h4>
                 <p class="text-gray-400 text-sm font-light leading-relaxed mb-4">
                     Abonnez-vous pour recevoir nos offres exclusives et nos actualités.

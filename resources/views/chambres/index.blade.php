@@ -14,13 +14,13 @@
     <div class="absolute inset-0 bg-gradient-to-t from-gray-900 via-gray-900/60 to-transparent z-10"></div>
 
     <div class="relative z-20 max-w-7xl mx-auto px-6 lg:px-8 text-left">
-        <span class="text-amber-400 text-xs font-bold uppercase tracking-widest block mb-3">
+        <span class="text-amber-400 text-xs font-bold uppercase tracking-widest block mb-3" data-aos="fade-up" data-aos-duration="800">
             Hébergements d'Exception
         </span>
-        <h1 class="text-4xl sm:text-5xl md:text-6xl  font-bold tracking-tight mb-4">
+        <h1 class="text-4xl sm:text-5xl md:text-6xl  font-bold tracking-tight mb-4" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
             Nos Chambres & Suites
         </h1>
-        <p class="text-gray-300 text-base sm:text-lg max-w-2xl font-light leading-relaxed">
+        <p class="text-gray-300 text-base sm:text-lg max-w-2xl font-light leading-relaxed" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
             Découvrez nos espaces conçus pour allier élégance, confort absolu et sérénité face à la nature verdoyante de Kpalimé.
         </p>
     </div>
@@ -68,7 +68,7 @@
     <div class="max-w-7xl mx-auto px-6 lg:px-8 space-y-16">
 
         <!-- CHAMBRE 1 : Deluxe Panorama -->
-        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 bg-gray-50 border border-gray-100 shadow-sm overflow-hidden">
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 bg-gray-50 border border-gray-100 shadow-sm overflow-hidden" data-aos="fade-up" data-aos-duration="800" data-aos-delay="0">
             <div class="lg:col-span-7 relative aspect-[4/3] lg:aspect-auto">
                 <img
                     src="https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=1000&auto=format&fit=crop"
@@ -115,7 +115,7 @@
         </div>
 
         <!-- CHAMBRE 2 : Suite Junior Prestige -->
-        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 bg-gray-50 border border-gray-100 shadow-sm overflow-hidden">
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 bg-gray-50 border border-gray-100 shadow-sm overflow-hidden" data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
             <div class="lg:col-span-7 relative aspect-[4/3] lg:aspect-auto lg:order-2">
                 <img
                     src="https://images.unsplash.com/photo-1591088398332-8a7791972843?q=80&w=1000&auto=format&fit=crop"
@@ -162,7 +162,7 @@
         </div>
 
         <!-- CHAMBRE 3 : Villa Présidentielle -->
-        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 bg-gray-50 border border-gray-100 shadow-sm overflow-hidden">
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 bg-gray-50 border border-gray-100 shadow-sm overflow-hidden" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
             <div class="lg:col-span-7 relative aspect-[4/3] lg:aspect-auto">
                 <img
                     src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1000&auto=format&fit=crop"

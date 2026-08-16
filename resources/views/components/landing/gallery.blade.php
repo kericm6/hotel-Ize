@@ -4,7 +4,7 @@
     <div class="max-w-7xl mx-auto px-6 lg:px-8">
 
         <!-- En-tête -->
-        <div class="text-center max-w-3xl mx-auto mb-16">
+        <div class="text-center max-w-3xl mx-auto mb-16" data-aos="fade-up" data-aos-duration="800">
             <span class="text-amber-400 text-xs font-bold uppercase tracking-widest block mb-2">
                 Immersion Visuelle
             </span>
@@ -19,28 +19,28 @@
         <!-- Grille d'images style Maçonnerie / Mosaïque -->
         <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
 
-            <div class="relative overflow-hidden aspect-square group shadow-lg">
+            <div class="relative overflow-hidden aspect-square group shadow-lg" data-aos="fade-up" data-aos-duration="800" data-aos-delay="0">
                 <img src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=800&auto=format&fit=crop" alt="Hôtel IZE Exterior" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition duration-300 flex items-center justify-center">
                     <span class="text-xs font-bold uppercase tracking-widest text-amber-400 border border-amber-400 px-4 py-2">Vue Extérieure</span>
                 </div>
             </div>
 
-            <div class="relative overflow-hidden aspect-square group shadow-lg">
+            <div class="relative overflow-hidden aspect-square group shadow-lg" data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
                 <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=800&auto=format&fit=crop" alt="Hôtel IZE Pool" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition duration-300 flex items-center justify-center">
                     <span class="text-xs font-bold uppercase tracking-widest text-amber-400 border border-amber-400 px-4 py-2">Espace Détente</span>
                 </div>
             </div>
 
-            <div class="relative overflow-hidden aspect-square group shadow-lg">
+            <div class="relative overflow-hidden aspect-square group shadow-lg" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
                 <img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=800&auto=format&fit=crop" alt="Hôtel IZE Restaurant" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition duration-300 flex items-center justify-center">
                     <span class="text-xs font-bold uppercase tracking-widest text-amber-400 border border-amber-400 px-4 py-2">Restaurant</span>
                 </div>
             </div>
 
-            <div class="relative overflow-hidden aspect-square group shadow-lg">
+            <div class="relative overflow-hidden aspect-square group shadow-lg" data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">
                 <img src="https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=800&auto=format&fit=crop" alt="Hôtel IZE Suite" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition duration-300 flex items-center justify-center">
                     <span class="text-xs font-bold uppercase tracking-widest text-amber-400 border border-amber-400 px-4 py-2">Suites & Luxe</span>

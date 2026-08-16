@@ -15,19 +15,19 @@
     <div class="flex-grow flex items-center relative z-20 px-6 lg:px-8 max-w-7xl mx-auto w-full pt-16 pb-10">
         <div class="max-w-3xl text-left">
 
-            <span class="inline-block text-amber-400 text-xs font-semibold uppercase tracking-widest mb-4">
+            <span class="inline-block text-amber-400 text-xs font-semibold uppercase tracking-widest mb-4" data-aos="fade-up" data-aos-duration="800">
                 Une parenthèse d'exception à Kpalimé
             </span>
 
-            <h1 class="text-5xl sm:text-6xl md:text-5xl  font-extrabold tracking-tight mb-6 leading-tight">
+            <h1 class="text-5xl sm:text-6xl md:text-5xl  font-extrabold tracking-tight mb-6 leading-tight" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
                 L'Art de Vivre Singulier.
             </h1>
 
-            <p class="text-xl sm:text-xl text-gray-200 max-w-2xl mb-10 leading-relaxed font-light">
+            <p class="text-xl sm:text-xl text-gray-200 max-w-2xl mb-10 leading-relaxed font-light" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
                 Bienvenue à l'Hôtel IZE. Découvrez une élégance intemporelle, une gastronomie raffinée et un service attentionné au cœur d'un environnement préservé.
             </p>
 
-            <div class="flex flex-wrap gap-4">
+            <div class="flex flex-wrap gap-4" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
                 <a href="#chambres" class="px-8 py-3.5 text-xs font-bold uppercase tracking-widest text-gray-900 bg-white hover:bg-amber-400 transition shadow-lg">
                     Découvrir nos chambres
                 </a>
@@ -37,7 +37,7 @@
     </div>
 
     <!-- 2. Barre de recherche de disponibilité -->
-    <div class="relative z-30 w-full pb-10 px-6 lg:px-8">
+    <div class="relative z-30 w-full pb-10 px-6 lg:px-8" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="400">
         <div class="max-w-7xl mx-auto bg-white/10 backdrop-blur-md p-4 sm:p-6 shadow-2xl border border-white/20">
             <form class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
 
