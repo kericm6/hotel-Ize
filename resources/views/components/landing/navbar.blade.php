@@ -4,8 +4,7 @@
         <!-- Logo Hôtel IZE -->
         <a href="/" class="flex items-center gap-1 sm:gap-2 text-lg sm:text-2xl font-bold tracking-widest text-gray-900 flex-shrink-0">
             <span class="text-amber-600">IZE</span>
-            <span class="inline sm:hidden">H</span>
-            <span class="hidden sm:inline">HOTEL</span>
+            <span>HOTEL</span>
         </a>
 
         <!-- Liens du menu -->
@@ -24,7 +23,7 @@
             </a>
 
             <!-- Burger Menu Mobile -->
-            <button id="menu-toggle" class="md:hidden flex flex-col gap-1.5 cursor-pointer z-50 relative p-2 -mr-2 touch-target" aria-label="Menu" aria-expanded="false">
+            <button id="menu-toggle" class="flex md:hidden flex-col gap-1.5 cursor-pointer z-50 relative p-2 -mr-2 touch-target" aria-label="Menu" aria-expanded="false">
                 <span class="w-5 h-0.5 bg-gray-700 transition-transform duration-300 block"></span>
                 <span class="w-5 h-0.5 bg-gray-700 transition-transform duration-300 block"></span>
                 <span class="w-5 h-0.5 bg-gray-700 transition-transform duration-300 block"></span>
@@ -64,6 +63,12 @@
             display: flex;
             align-items: center;
             justify-content: center;
+        }
+        
+        @media (min-width: 768px) {
+            #menu-toggle {
+                display: none !important;
+            }
         }
         
         @media (max-width: 640px) {
